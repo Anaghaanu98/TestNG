@@ -1,0 +1,12 @@
+<suite name="basics">
+	<test name="feature">
+		<classes>
+			<class name="testNgProject.BasicTestcase">
+				<methods>
+					<include name="verifyTitle"></include>
+				</methods>
+			</class>
+
+		</classes>
+	</test>
+</suite>

@@ -1,0 +1,10 @@
+
+<suite name="basics">
+	<test name="feature">
+		<classes>
+			<class name="testNgProject.BasicTestcase">
+			</class>
+			<class name="testNgProject.DataProviderEx"></class>
+		</classes>
+	</test>
+</suite>
